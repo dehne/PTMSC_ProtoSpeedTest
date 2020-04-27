@@ -1,0 +1,3 @@
+# PTMSC Prototype Core Calculation Speed Test
+
+ Run the core calculation needed to drive the diver along a straight line path to see how long it takes because I'm worried that a little Arduino Uno isn't going to hack it. I think I need to step the steppers at at least 200 Hz and to do the core calculation at at least 10Hz. Plus I need  to have some capacity left over to communicate with the main computer.
